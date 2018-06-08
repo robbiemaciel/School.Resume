@@ -1,0 +1,46 @@
+{
+    "myInfo": {
+        "name": "Roberto Maciel",
+	    "number": "801-319-2446" ,
+	    "email": "robbie.maciel@gmail.com" 
+    },
+    "competencies": [
+        "Profecient in C++",
+        "Profecient in C#",
+        "Good understanding of basic programing skills such as object oriented programming and big O"
+    ],
+    "education": [
+        "Sophmore in computer science program at UVU",
+        "4.0 GPA"
+    ],
+    "experience":{
+        "fidelity":{
+            "company": "Fidelity Investments",
+            "jobTitle": "Financial Trader",
+            "start": 2015,
+            "end": "Present",
+            "duties": [
+                "Engaged with customers in fast paced enviorment",
+                "Make complex financial trades in the stock market",
+                "Have good people skills and the ability to communicate clearly with cusotmers"
+            ]
+        },
+        "uccu":{
+            "company": "Utah Community Credit Union",
+            "jobTitle": "Loan Officer",
+            "start": 2012,
+            "end": 2015,
+            "duties":[
+                "Assist underwriters with approvals, rejections, and counter offers on applications",
+                "Maintain a continually changing book of clients",
+                "Assist Customers in all types of complex domestic and international transactions"
+            ]
+        }
+    },   
+    "additionalSkills":[
+        "Good customer service skills and emotional intelligence",
+        "Experience working closley with other team members towards a common goal",
+        "Series 7 and 63 licensed",
+        "Fluent in Spanish"
+    ]
+} 
