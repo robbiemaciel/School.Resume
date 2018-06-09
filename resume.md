@@ -1,5 +1,5 @@
 # Robbie Maciel
-801-319-2446 || [robbie.maciel@gmail.com](mailto://robbie.maciel@gmail.com)
+801-319-2446 || [robbie.maciel@gmail.com](mailto:robbie.maciel@gmail.com)
 ***
 ### Core Competencies
 * Profecient in C++
