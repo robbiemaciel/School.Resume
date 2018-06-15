@@ -1,9 +1,12 @@
 {
     "myInfo": {
-        "name": "Roberto Maciel",
-	    "number": "801-319-2446" ,
-	    "email": "robbie.maciel@gmail.com" 
+        "name": "Roberto Maciel",	    
     },
+	
+"myContact":{
+	"number": "801-319-2446" ,
+	 "email": "robbie.maciel@gmail.com" 
+}
     "competencies": [
         "Profecient in C++",
         "Profecient in C#",
